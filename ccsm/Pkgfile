@@ -1,8 +1,7 @@
-# Description:
-# URL:
-# Maintainer:
-# Packager:
-# Depends on:
+# Description: Compiz Configuration Settings Manager
+# URL: http://compiz-fusion.org
+# Maintainer: Lucas Hazel <lucas@die.net.au>
+# Depends on: compizconfig-python
 
 name=ccsm
 version=0.5.2
@@ -12,4 +11,5 @@ source=(http://releases.compiz-fusion.org/$version/$name-$version.tar.gz)
 build() {
 	cd $name-$version
 	python setup.py install --prefix=/usr --root=$PKG
+	rm -rf $PKG/usr/share/locale
 }

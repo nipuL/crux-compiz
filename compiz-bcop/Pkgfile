@@ -1,8 +1,6 @@
-# Description:
-# URL:
-# Maintainer:
-# Packager:
-# Depends on:
+# Description: Code generator for compiz fusion plugins
+# URL: http://compiz-fusion.org
+# Maintainer: Lucas Hazel <lucas@die.net.au>
 
 name=compiz-bcop
 version=0.5.2

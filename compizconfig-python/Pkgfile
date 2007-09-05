@@ -1,8 +1,7 @@
-# Description:
-# URL:
-# Maintainer:
-# Packager:
-# Depends on:
+# Description: Python bindings for libcompizconfig
+# URL: http://compiz-fusion.org
+# Maintainer: Lucas Hazel <lucas@die.net.au>
+# Depends on: python libcompizconfig
 
 name=compizconfig-python
 version=0.5.2
