@@ -1,0 +1,26 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/include/
+drwxr-xr-x	root/root	usr/include/compizconfig/
+-rw-r--r--	root/root	usr/include/compizconfig/ccs-backend.h
+-rw-r--r--	root/root	usr/include/compizconfig/ccs.h
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/compiz/
+-rw-r--r--	root/root	usr/lib/compiz/libccp.a
+-rwxr-xr-x	root/root	usr/lib/compiz/libccp.la
+-rwxr-xr-x	root/root	usr/lib/compiz/libccp.so
+drwxr-xr-x	root/root	usr/lib/compizconfig/
+drwxr-xr-x	root/root	usr/lib/compizconfig/backends/
+-rw-r--r--	root/root	usr/lib/compizconfig/backends/libini.a
+-rwxr-xr-x	root/root	usr/lib/compizconfig/backends/libini.la
+-rwxr-xr-x	root/root	usr/lib/compizconfig/backends/libini.so
+-rw-r--r--	root/root	usr/lib/libcompizconfig.a
+-rwxr-xr-x	root/root	usr/lib/libcompizconfig.la
+lrwxrwxrwx	root/root	usr/lib/libcompizconfig.so -> libcompizconfig.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/libcompizconfig.so.0 -> libcompizconfig.so.0.0.0
+-rwxr-xr-x	root/root	usr/lib/libcompizconfig.so.0.0.0
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/libcompizconfig.pc
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/compizconfig/
+-rw-r--r--	root/root	usr/share/compizconfig/global.xml
+drwxr-xr-x	root/root	usr/share/locale/

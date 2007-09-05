@@ -1,0 +1,15 @@
+# Description:
+# URL:
+# Maintainer:
+# Packager:
+# Depends on:
+
+name=ccsm
+version=0.5.2
+release=1
+source=(http://releases.compiz-fusion.org/$version/$name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+	python setup.py install --prefix=/usr --root=$PKG
+}

@@ -1,0 +1,9 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/compizconfig-python.pc
+drwxr-xr-x	root/root	usr/lib/python2.5/
+drwxr-xr-x	root/root	usr/lib/python2.5/site-packages/
+-rw-r--r--	root/root	usr/lib/python2.5/site-packages/compizconfig.a
+-rwxr-xr-x	root/root	usr/lib/python2.5/site-packages/compizconfig.la
+-rwxr-xr-x	root/root	usr/lib/python2.5/site-packages/compizconfig.so

@@ -1,0 +1,21 @@
+# Description:
+# URL:
+# Maintainer: Lucas Hazel <lucas@die.net.au>
+# Depends on:
+
+name=compiz
+version=0.5.2
+release=1
+source=(http://releases.compiz-fusion.org/$version/$name/$name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+		--disable-gconf \
+		--disable-gnome \
+		--disable-metacity \
+		--disable-kde \
+		--disable-gnome-bindings
+	make
+	make DESTDIR=$PKG install
+}
