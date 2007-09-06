@@ -1,7 +1,7 @@
 # Description: Python bindings for libcompizconfig
 # URL: http://compiz-fusion.org
 # Maintainer: Lucas Hazel <lucas@die.net.au>
-# Depends on: python libcompizconfig
+# Depends on: pyrex libcompizconfig
 
 name=compizconfig-python
 version=0.5.2
