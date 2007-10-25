@@ -5,7 +5,7 @@
 # Depends on:
 
 name=compiz-fusion-plugins-extra
-version=0.5.2
+version=0.6.0
 release=1
 source=(http://releases.compiz-fusion.org/$version/$name-$version.tar.gz)
 

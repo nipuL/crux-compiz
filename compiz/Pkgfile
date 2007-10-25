@@ -4,9 +4,9 @@
 # Depends on:
 
 name=compiz
-version=0.5.2
+version=0.6.2
 release=1
-source=(http://releases.compiz-fusion.org/$version/$name/$name-$version.tar.gz)
+source=(http://releases.compiz-fusion.org/0.6.0/$name/$name-$version.tar.gz)
 
 build() {
 	cd $name-$version

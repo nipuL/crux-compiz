@@ -15,11 +15,13 @@ drwxr-xr-x	root/root	usr/lib/python2.5/site-packages/ccm/
 -rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/Settings.pyc
 -rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/Utils.py
 -rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/Utils.pyc
+-rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/Widgets.py
+-rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/Widgets.pyc
 -rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/Window.py
 -rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/Window.pyc
 -rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/__init__.py
 -rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccm/__init__.pyc
--rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccsm-0.5.2-py2.5.egg-info
+-rw-r--r--	root/root	usr/lib/python2.5/site-packages/ccsm-0.6.0-py2.5.egg-info
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/applications/
 -rw-r--r--	root/root	usr/share/applications/ccsm.desktop
@@ -67,7 +69,6 @@ drwxr-xr-x	root/root	usr/share/ccsm/images/
 -rw-r--r--	root/root	usr/share/ccsm/images/plugin-fs.svg
 -rw-r--r--	root/root	usr/share/ccsm/images/plugin-gears.svg
 -rw-r--r--	root/root	usr/share/ccsm/images/plugin-glib.svg
--rw-r--r--	root/root	usr/share/ccsm/images/plugin-gotovp.svg
 -rw-r--r--	root/root	usr/share/ccsm/images/plugin-group.svg
 -rw-r--r--	root/root	usr/share/ccsm/images/plugin-imgjpeg.svg
 -rw-r--r--	root/root	usr/share/ccsm/images/plugin-inotify.svg

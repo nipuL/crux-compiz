@@ -3,7 +3,7 @@
 # Maintainer: Lucas Hazel <lucas@die.net.au>
 
 name=compiz-bcop
-version=0.5.2
+version=0.6.0
 release=1
 source=(http://releases.compiz-fusion.org/$version/$name-$version.tar.gz)
 
