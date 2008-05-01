@@ -4,7 +4,7 @@
 # Depends on: pyrex libcompizconfig
 
 name=compizconfig-python
-version=0.6.0
+version=0.7.4
 release=1
 source=(http://releases.compiz-fusion.org/$version/$name-$version.tar.gz)
 
