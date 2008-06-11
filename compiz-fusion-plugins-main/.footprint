@@ -56,6 +56,9 @@ drwxr-xr-x	root/root	usr/lib/compiz/
 -rw-r--r--	root/root	usr/lib/compiz/libsnap.a
 -rwxr-xr-x	root/root	usr/lib/compiz/libsnap.la
 -rwxr-xr-x	root/root	usr/lib/compiz/libsnap.so
+-rw-r--r--	root/root	usr/lib/compiz/libstaticswitcher.a
+-rwxr-xr-x	root/root	usr/lib/compiz/libstaticswitcher.la
+-rwxr-xr-x	root/root	usr/lib/compiz/libstaticswitcher.so
 -rw-r--r--	root/root	usr/lib/compiz/libtext.a
 -rwxr-xr-x	root/root	usr/lib/compiz/libtext.la
 -rwxr-xr-x	root/root	usr/lib/compiz/libtext.so
@@ -115,6 +118,7 @@ drwxr-xr-x	root/root	usr/share/compiz/filters/
 -rw-r--r--	root/root	usr/share/compiz/session.xml
 -rw-r--r--	root/root	usr/share/compiz/shift.xml
 -rw-r--r--	root/root	usr/share/compiz/snap.xml
+-rw-r--r--	root/root	usr/share/compiz/staticswitcher.xml
 -rw-r--r--	root/root	usr/share/compiz/text.xml
 -rw-r--r--	root/root	usr/share/compiz/thumbnail.xml
 -rw-r--r--	root/root	usr/share/compiz/vpswitch.xml

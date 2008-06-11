@@ -55,9 +55,6 @@ drwxr-xr-x	root/root	usr/lib/compiz/
 -rw-r--r--	root/root	usr/lib/compiz/libplace.a
 -rwxr-xr-x	root/root	usr/lib/compiz/libplace.la
 -rwxr-xr-x	root/root	usr/lib/compiz/libplace.so
--rw-r--r--	root/root	usr/lib/compiz/libplane.a
--rwxr-xr-x	root/root	usr/lib/compiz/libplane.la
--rwxr-xr-x	root/root	usr/lib/compiz/libplane.so
 -rw-r--r--	root/root	usr/lib/compiz/libpng.a
 -rwxr-xr-x	root/root	usr/lib/compiz/libpng.la
 -rwxr-xr-x	root/root	usr/lib/compiz/libpng.so
@@ -125,7 +122,6 @@ drwxr-xr-x	root/root	usr/share/compiz/
 -rw-r--r--	root/root	usr/share/compiz/minimize.xml
 -rw-r--r--	root/root	usr/share/compiz/move.xml
 -rw-r--r--	root/root	usr/share/compiz/place.xml
--rw-r--r--	root/root	usr/share/compiz/plane.xml
 -rw-r--r--	root/root	usr/share/compiz/png.xml
 -rw-r--r--	root/root	usr/share/compiz/regex.xml
 -rw-r--r--	root/root	usr/share/compiz/resize.xml

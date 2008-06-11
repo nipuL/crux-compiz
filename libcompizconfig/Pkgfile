@@ -4,7 +4,7 @@
 # Depends on: compiz libxml2
 
 name=libcompizconfig
-version=0.7.4
+version=0.7.6
 release=1
 source=(http://releases.compiz-fusion.org/$version/$name-$version.tar.gz)
 
